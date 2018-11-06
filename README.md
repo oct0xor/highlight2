@@ -25,3 +25,5 @@ IDA Pro 7.0
 Compile or use pre-built binaries.
 
 Copy each file to appropriate directory.
+
+If you dont see a difference in IDA Pro output try to change a value of HIGHLIGHT2_COLOR property in highlight2.cfg.
