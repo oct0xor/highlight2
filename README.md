@@ -12,6 +12,7 @@ The main features are:
 
 * Works with all architectures (call instructions are parsed from loaded processor module)
 * Changes color of "Call" instructions
+* You can choose color in settings or edit highlight2.cfg file
 
 Highlight2 is proper implementation of concept presented in blog post [Advanced Ida Pro Instruction Highlighting](http://oct0xor.github.io/2017/05/03/ida_coloring/).
 
